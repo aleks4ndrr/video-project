@@ -253,6 +253,7 @@ img.converge {
   width: fit-content;
   text-align: center;
   border-radius: 20px;
+  max-width: 50%;
   background-color: var(--SECONADRY-COLOR);
 }
 
@@ -263,11 +264,13 @@ img.converge {
 }
 
 .main__bloopers-abouth4 {
-  font-size: 1.5rem;
+  padding: 2rem 0;
+  font-size: 1.8rem;
 }
 
 .main__bloopers-about-text {
-  font-size: 1.1rem;
+  padding: 0 2rem;
+  font-size: 1.4rem;
 }
 
 .footer {
@@ -286,6 +289,7 @@ img.converge {
 }
 
 .extra-text {
+  padding: 1rem;
   font-size: 1.1rem;
   background-color: var(--DARKER-COLOR);
   border-radius: 15px;
